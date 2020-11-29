@@ -8,6 +8,8 @@ Initialization Date: 2020-10-12
 ## Description
 ### _Practice Exercise:_
 
+This project is an exercise in creating a basic README file useing Markdown.
+
 _This blog post describes some things about a trip that Randel Moore took to Nara Japan.  The post includes information about a Buddist temple, the local deer population, and local food._
 
 ## Setup/Installation Requirements
