@@ -1,6 +1,6 @@
 # _Vacation_Blog_Post_
 ### _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._<br><br>
-[Epicodus](https://www.epicodus.com/) - Introduction to Programming - Week 01 - Lesson 07<br><br>
+[Epicodus](https://www.epicodus.com/) - Introduction to Programming - Week 01 - Lesson 09<br><br>
 Initialization Date: 2020-10-12
 
 #### By _**Randel Moore, Jeffrey Chiu, and Danielle Thompson**_
